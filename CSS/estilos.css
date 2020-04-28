@@ -1,0 +1,56 @@
+*{
+    margin : 0;
+    
+    padding: 0;
+}
+#contenido , #marco , #menu, #marco02,#footer{
+    width: 1000px;
+   
+   
+}
+#contenido{
+    height: 800px;
+    margin: 0 auto;
+}
+#menu{
+    height: 50px;
+    background-color: mediumslateblue;
+}
+#marco{
+    height: 200px;
+    margin: 0;
+
+}
+#logo{
+    width: 205px;
+    height: 200px;
+    background-color: red;
+    
+    float: left;
+}
+#banner{
+    width:795px;
+    height: 200px;
+    background-color: salmon;
+    float: right;
+}
+#footer{
+    height: 50px;
+    background-color: rgb(0, 195, 255);
+}
+#marco02{
+    height: 500px;
+    
+}
+#article{
+    width: 700px ;
+    height:500px;
+    background-color: greenyellow;
+    float: left;
+}
+#aside{
+    width: 300px ;
+    height:500px;
+    background-color: skyblue;
+    float: right;
+}
